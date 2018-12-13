@@ -1,0 +1,55 @@
+#about {
+
+}
+#about img {
+  padding-left: 0;
+}
+#about h1 {
+  margin: 25px;
+}
+#header {
+  margin: 0;
+padding: 0;
+}
+section {
+  margin: 40px;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+}
+
+#picturebox img {
+  border-radius: 30%; // full circular image
+  border: solid 3px lightblue;
+  padding: 5px;
+  background-color: lightblue;
+}
+
+body {
+padding-top: 25px;
+background-image: url('landing.png');
+background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+
+
+}
+
+.navbar {
+  position: fixed;
+  z-index: 9;
+  top: 0px;
+  float: left;
+  height: 4rem;
+  width: 100%;
+
+}
+
+.badges {
+  font-size: 20;
+  margin-bottom: 5px;
+}
+
+.card {
+
+}
