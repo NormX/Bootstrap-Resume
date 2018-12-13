@@ -16,4 +16,4 @@ This resume website was created by and is maintained by **[Mustafa Nor]**
 ## Copyright and License
 
 Copyright (c) [2018] [Mustafa Nor]
-Code released under the [MIT]() license.
+Code released under the [MIT](https://github.com/NormX/Bootstrap-Resume/blob/master/LICENSE) license.
