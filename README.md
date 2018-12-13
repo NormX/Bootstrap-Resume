@@ -11,9 +11,9 @@ To begin using this template, choose one of the following options to get started
 
 ## Developer
 
-This resume website was created by and is maintained by **[Mustafa Nor]**
+This resume website was created by and is maintained by **[NormX]**
 
 ## Copyright and License
 
-Copyright (c) [2018] [Mustafa Nor]
+Copyright (c) [2018] [Normx]
 Code released under the [MIT](https://github.com/NormX/Bootstrap-Resume/blob/master/LICENSE) license.
